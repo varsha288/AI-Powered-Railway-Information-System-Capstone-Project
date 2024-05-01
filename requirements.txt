@@ -19,7 +19,7 @@ Flask==2.0.2
 frozenlist==1.4.1
 googletrans==3.0.0
 greenlet==3.0.3
-h11==0.14.0
+h11>=0.8,<0.10
 h2==3.2.0
 hpack==3.0.0
 hstspreload==2024.4.1
