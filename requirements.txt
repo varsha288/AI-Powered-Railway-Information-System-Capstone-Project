@@ -17,14 +17,14 @@ distro==1.9.0
 faiss-cpu==1.8.0
 Flask==2.0.2
 frozenlist==1.4.1
-googletrans==4.0.0-rc1
+googletrans==3.0.0
 greenlet==3.0.3
 h11
 h2==3.2.0
 hpack==3.0.0
 hstspreload==2024.4.1
 httpcore
-httpx>=0.20.0,<1
+httpx<1,>=0.23.0
 hyperframe==5.2.0
 idna==2.10
 jsonpatch==1.33
