@@ -4,6 +4,9 @@
 
 AI-Powered Railway Information System
 
+![ss we](https://github.com/Varsha2808/AI-Powered-Railway-Information-System-Capstone-Project/assets/75887146/e5a28790-d4a9-43ca-b71c-056e95a41d97)
+
+
 ## Description
 
 This project showcases a state-of-the-art railway information system that brings together chatbot technology, natural language processing (NLP), speech recognition, and powerful machine learning algorithms to transform user engagement and data accessibility.
