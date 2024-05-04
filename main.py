@@ -68,5 +68,5 @@ def speech_to_text():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=false,host='0.0.0.0')
+    app.run(debug=true)
 
