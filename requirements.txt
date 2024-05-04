@@ -42,7 +42,7 @@ mtranslate==1.8
 multidict==6.0.5
 multiprocess==0.70.16
 mypy-extensions==1.0.0
-numpy==1.21.5
+numpy==1.26.4
 openai
 orjson==3.10.0
 packaging==23.2
